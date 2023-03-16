@@ -6,7 +6,10 @@ I'm an intermediate Android developer with 2 years of experience in designing, d
 
 ## Technical Skills
 
-- Programming Languages: Java ![Java](https://www.figma.com/file/2bB9OSg3rLGL732HbX6ChV/Untitled?node-id=691%3A502&t=M0D5wIRYhCGm13TZ-4), Kotlin ![Kotlin](https://www.figma.com/file/2bB9OSg3rLGL732HbX6ChV/Untitled?node-id=691%3A503&t=M0D5wIRYhCGm13TZ-4)
+
+- Programming Languages: Java ![Java](https://user-images.githubusercontent.com/96315588/225513737-b6a5154a-e2d2-42a1-8131-b80656c4dea8.png), ![Kotlin](https://user-images.githubusercontent.com/96315588/225513537-a226dae6-231a-43a6-88ea-b40a5f85a8cf.png), C ![c_icon](https://user-images.githubusercontent.com/96315588/225515504-f2282043-11c6-4157-a4a8-20294116baa5.png) , C++ ![cpp](https://user-images.githubusercontent.com/96315588/225515546-a32e3008-f8c0-4746-a732-034a6e8b5b98.png)
+
+)
 - Android App Development: Android SDK, Android Studio, Gradle, Firebase, Google Play Services, Material Design, AppCompat, Room
 - APIs: REST, JSON
 - Libraries: Retrofit, Glide, OkHttp, Zxing , Volley
