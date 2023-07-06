@@ -29,3 +29,7 @@ I'm open to collaborations, job opportunities, and networking. Feel free to reac
 
 ## My GitHub Stats
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Bharti-1)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Abhishek-Bharti-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Bharti-1&theme=dark&hide_border=false)
+![](https://githubreadmestats.vercel.app/api/toplangs/username=Abhishek-Bharti-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
