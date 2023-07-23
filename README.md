@@ -38,9 +38,15 @@ I'm an intermediate Android developer with 2 years of experience in designing, d
 
 
 ## Contact Me
-- Email: Abhishek Bharti [Email](mailto:abhishekbhartirocks1@gmail.com)
-- LinkedIn: Abhishek Bharti [Profile Link](https://www.linkedin.com/in/abhishek-bharti-3a706022a/)
 
+<a href="https://www.linkedin.com/in/abhishek-bharti-3a706022a/">
+<img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
+<a /> 
+
+<a href="mailto:abhishekbhartirocks1@gmail.com">
+<img src="https://user-images.githubusercontent.com/65576812/183569557-bc45c86d-c4d9-472d-b584-b025ffa7a39e.png" width="150px">
+<a />
+  
 I'm open to collaborations, job opportunities, and networking. Feel free to reach out to me if you're interested in working together or if you have any questions or suggestions. Thank you for visiting my profile!
 
 ## My GitHub Stats
