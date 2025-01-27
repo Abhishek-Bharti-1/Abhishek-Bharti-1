@@ -10,16 +10,11 @@ I'm an intermediate Full Stack Developer with 3 years of experience in designing
 
 # My Skills
 
-<p align="center">
-  <!-- Top Row -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
-  </a>
-</p>
+
 <p align="center">
   <!-- Second Row -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"/>
   </a>
 </p>
 <p align="center">
