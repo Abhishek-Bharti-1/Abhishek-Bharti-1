@@ -65,11 +65,10 @@ I'm open to collaborations, job opportunities, and networking. Feel free to cont
 ## My GitHub Stats
 <table>
   <tr>
-    <!-- Left Column: Top 3 GitHub Stats -->
+    <!-- Left Column: Top 3 GitHub Stats https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Bharti-1&theme=dark&hide_border=false-->
     <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bharti-1&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="500px" style="height: 200px;" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Bharti-1&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="500px" style="height: 200px;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Bharti-1&layout=donut&theme=github_dark" alt="Top Languages" width="500px" style="height: 250px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bharti-1&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="100%" style="height: 200px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Bharti-1&layout=donut&theme=github_dark" alt="Top Languages" width="100%" style="height: 200px;" />
     </td>
     <!-- Right Column: WakaTime Stats -->
     <td style="width: 50%;">
