@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intermediate Full Stack Developer with 3 years of experience in designing, developing, and maintaining high-quality web & mobile applications. My passion for learning new technologies, problem-solving, and attention to detail have helped me deliver robust and user-friendly Web & Android apps.
+I'm an intermediate Full-Stack Developer with three years of experience designing, developing, and maintaining high-quality web and mobile applications. My passion for learning new technologies, problem-solving, and attention to detail has helped me deliver robust, user-friendly Web and Android apps.
 
 ## Technical Skills
 
@@ -72,7 +72,7 @@ I'm open to collaborations, job opportunities, and networking. Feel free to cont
     </td>
     <!-- Right Column: WakaTime Stats -->
     <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbhishekBharti1&theme=dracula" alt="WakaTime Stats" width="100%" style="height: 150px;" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbhishekBharti1&theme=dracula" alt="WakaTime Stats" width="100%"  />
     </td>
   </tr>
 </table>
