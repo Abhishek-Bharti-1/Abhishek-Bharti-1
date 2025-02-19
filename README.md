@@ -6,9 +6,8 @@ I'm an intermediate Full-Stack Developer with three years of experience designin
 
 ## Technical Skills
 
-### Programming Languages: 
 
-# My Skills
+
 
 
 <p align="center">
@@ -43,7 +42,7 @@ I'm an intermediate Full-Stack Developer with three years of experience designin
 </p>
 
 
-
+## My Skills
 - Android App Development: Android SDK, Android Studio, Gradle, Firebase, Google Play Services, Material Design, AppCompat, Room
 - APIs: REST, JSON
 - Libraries: Retrofit, Glide, OkHttp, Zxing, Volley
