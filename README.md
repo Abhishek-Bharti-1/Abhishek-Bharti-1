@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intermediate Full-Stack Developer with three years of experience designing, developing, and maintaining high-quality web and mobile applications. My passion for learning new technologies, problem-solving, and attention to detail has helped me deliver robust, user-friendly Web and Android apps.
+I'm a Full-Stack Developer with three years of experience designing, developing, and maintaining high-quality web and mobile applications. My passion for learning new technologies, problem-solving, and attention to detail has helped me deliver robust, user-friendly Web and Mobile apps.
 
 ## Technical Skills
 
@@ -13,13 +13,13 @@ I'm an intermediate Full-Stack Developer with three years of experience designin
 <p align="center">
   <!-- Second Row -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"/>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,kotlin,androidstudio,kubernetes,googlecloud"/>
   </a>
 </p>
 <p align="center">
   <!-- Third Row -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,graphql,ai" />
   </a>
 </p>
 <p align="center">
@@ -37,7 +37,7 @@ I'm an intermediate Full-Stack Developer with three years of experience designin
 <p align="center">
   <!-- Sixth Row -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,vscode,aws"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@ I'm an intermediate Full-Stack Developer with three years of experience designin
 <img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
 <a /> 
 
-<a href="mailto:abhishekbhartirocks1@gmail.com">
+<a href="mailto:abhishekbh349@gmail.com">
 <img src="https://user-images.githubusercontent.com/65576812/183569557-bc45c86d-c4d9-472d-b584-b025ffa7a39e.png" width="150px">
 <a />
   
